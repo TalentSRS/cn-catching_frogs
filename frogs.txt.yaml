@@ -1,0 +1,195 @@
+- chinese: 不好意思。。。
+  english:
+  - I'm sorry.
+  - Sorry...
+  - Excuse me.
+  type: chinese
+  comment: ! 'Covers: 不好意思. Cost: 0.0'
+- chinese: 真的？
+  english:
+  - Is that true?
+  type: chinese
+  comment: ! 'Covers: 真. Cost: 0.0'
+- chinese: 你们是几位？
+  english:
+  - How many of you are there?
+  type: chinese
+  comment: ! 'Covers: 几位. Cost: 2.9701352896624445e-4'
+- chinese: 你是对的。
+  english:
+  - You're quite right.
+  type: chinese
+  comment: ! 'Covers: 对. Cost: 3.539381995588514e-5'
+- chinese: 我说的是真的。
+  english:
+  - What I'm saying is true.
+  type: chinese
+  comment: ! 'Covers: 说. Cost: 3.539381995588514e-5'
+- chinese: 你给我下来！
+  english:
+  - Get down here!
+  type: chinese
+  comment: ! 'Covers: 下来. Cost: 2.861549643593992e-4'
+- chinese: 我会做的。
+  english:
+  - I'll do it.
+  type: chinese
+  comment: ! 'Covers: 做. Cost: 0.0'
+- chinese: 我去公园。
+  english:
+  - I'm going to the park.
+  type: chinese
+  comment: ! 'Covers: 公园. Cost: 0.0'
+- chinese: 我也去了。
+  english:
+  - I also went.
+  - I went, too.
+  type: chinese
+  comment: ! 'Covers: 我. Cost: 0.0'
+- chinese: 我在听。
+  english:
+  - I'm listening.
+  type: chinese
+  comment: ! 'Covers: 在. Cost: 0.0'
+- chinese: 我在家里。
+  english:
+  - I am in the house.
+  type: chinese
+  comment: ! 'Covers: 家里. Cost: 0.0'
+- chinese: 我带你去吧。
+  english:
+  - I'll take you there.
+  type: chinese
+  comment: ! 'Covers: 带. Cost: 2.522176870679669e-5'
+- chinese: 回家吧我们。
+  english:
+  - Let's go home.
+  type: chinese
+  comment: ! 'Covers: 回家. Cost: 0.0'
+- chinese: 我爱大自然。
+  english:
+  - I love nature.
+  type: chinese
+  comment: ! 'Covers: 大自然. Cost: 1.07789981999073e-3'
+- chinese: 这是一。
+  english:
+  - That’s the first point.
+  type: chinese
+  comment: ! 'Covers: 一. Cost: 1.1689166363722437e-4'
+- chinese: 你有吗？
+  english:
+  - Do you have one?
+  type: chinese
+  comment: ! 'Covers: 有. Cost: 1.3462392805697285e-4'
+- chinese: 我一定会去看他的。
+  english:
+  - I'll certainly go and see him.
+  type: chinese
+  comment: ! 'Covers: 看. Cost: 8.436127547499615e-5'
+- chinese: 他最近好像瘦了。
+  english:
+  - It seems he's gotten thinner lately.
+  type: chinese
+  comment: ! 'Covers: 瘦. Cost: 6.063913649869626e-3'
+- chinese: 我就知道你会来。
+  english:
+  - I knew you'd come.
+  type: chinese
+  comment: ! 'Covers: 就. Cost: 1.8116893822320374e-4'
+- chinese: 你知道这件事吗？
+  english:
+  - Do you know this thing?
+  type: chinese
+  comment: ! 'Covers: 件. Cost: 1.7050763533191015e-4'
+- chinese: 我感觉好像死了一样。
+  english:
+  - I feel dead.
+  type: chinese
+  comment: ! 'Covers: 好像. Cost: 1.5738365413368169e-3'
+- chinese: 我要离开几天。
+  english:
+  - I am going away for a few days.
+  type: chinese
+  comment: ! 'Covers: 几天. Cost: 1.64774506088418e-3'
+- chinese: 我有很多|事要做。
+  english:
+  - I've got so much to do.
+  type: chinese
+  comment: ! 'Covers: 事. Cost: 1.672442166949867e-4'
+- chinese: 天渐渐黑了。我们回家吧。
+  english:
+  - It is getting dark. Let's go home.
+  type: chinese
+  comment: ! 'Covers: 渐渐. Cost: 7.351860020585207e-3'
+- chinese: 她晚上做什么?
+  english:
+  - What does she do in the evening?
+  type: chinese
+  comment: ! 'Covers: 晚上. Cost: 1.51506198876127e-4'
+- chinese: 我们玩点什么吧
+  english:
+  - Let's have some fun.
+  type: chinese
+  comment: ! 'Covers: 玩. Cost: 4.3193932116416286e-4'
+- chinese: 我养了只狗。
+  english:
+  - I keep a dog.
+  type: chinese
+  comment: ! 'Covers: 养. Cost: 2.840989800846615e-3'
+- chinese: 我悄悄把信给了他。
+  english:
+  - I slipped the letter to him.
+  type: chinese
+  comment: ! 'Covers: 悄悄. Cost: 4.5028818443804035e-3'
+- chinese: 我把我知道的都告诉你吧。
+  english:
+  - I'll tell you all I know about it.
+  type: chinese
+  comment: ! 'Covers: 把. Cost: 5.47948207935386e-4'
+- chinese: 我没看到人。
+  english:
+  - I didn't see anybody.
+  - I didn't see anyone.
+  type: chinese
+  comment: ! 'Covers: 到. Cost: 2.1030449988538403e-4'
+- chinese: 请再出来一下。
+  english:
+  - Come out again, please !
+  type: chinese
+  comment: ! 'Covers: 出来. Cost: 1.2346441138341873e-3'
+- chinese: 不。它们太小了。
+  english:
+  - No. They are too small.
+  type: chinese
+  comment: ! 'Covers: 它们. Cost: 9.593798568605255e-4'
+- chinese: 她为她的成功感到高兴。
+  english:
+  - She is pleased at her success.
+  type: chinese
+  comment: ! 'Covers: 感到. Cost: 5.320563979781858e-3'
+- chinese: 我前几天买了这本书。
+  english:
+  - I bought this book the other day.
+  type: chinese
+  comment: ! 'Covers: 前几天. Cost: 4.690431519699813e-3'
+- chinese: 我可以把它放在这儿吗？
+  english:
+  - May I put it down here?
+  - May I put it here?
+  type: chinese
+  comment: ! 'Covers: 放. Cost: 1.3513696131028797e-3'
+- chinese: 我要用魔法把他变成一只青蛙！
+  english:
+  - I'll bewitch him into a frog!
+  type: chinese
+  comment: ! 'Covers: 青蛙. Cost: 2.598752598752599e-2'
+- chinese: 请叫她给我回个电话。
+  english:
+  - Please tell her to call me back.
+  type: chinese
+  comment: ! 'Covers: 回. Cost: 1.8257503834075803e-3'
+- chinese: 不管黑猫白猫，能捉老鼠就是好猫。
+  english:
+  - Whether it's white or black, a cat that chases mice is a good cat.
+  type: chinese
+  comment: ! 'Covers: 捉. Cost: 2.718868950516585e-2'

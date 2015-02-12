@@ -1,0 +1,17 @@
+parents:
+ - https://github.com/TalentSRS/cn-comprehensive
+title: Catching Frogs
+tags:
+ - Beginner
+ - Story
+description: |
+  Chinese children's story about frogs.
+
+  ChineseReadingPractice: <http://chinesereadingpractice.com/2014/05/07/catching-frogs/>
+
+  Source: <http://www.zuowen.com/e/20120522/4fbb17e8c23c9.shtml>
+
+units:
+ - title: 抓青蛙
+   content: frogs.txt
+   stencils: frogs.txt.yaml
